@@ -25,5 +25,6 @@ V:=Av1+•••+Avn (V⊂B⊂B*⊂V’より)
 fi:Xi→Si→
 fi:Xi→Ui
 
-309p
+309p 上から6行目
+よって,Im(fb)=
 

@@ -54,6 +54,11 @@ X = X₁ ⨿ ··· ⨿ Xrと表される
 F_s̄: Sch_S → FSetを→
 F_s̄: FÉt_S → FSetを→
 
+323p
+下から7行目
+𝔊 → ℭ:U→U\(A,a)
+𝔊 → 𝔇:U→U\(A,a)
+
 329p
 上から11行目
 ker(f*)=Im(f*)→

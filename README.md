@@ -52,4 +52,4 @@ X = X₁ ⨿ ··· ⨿ Xrと表される
 320p
 定義6.3.11 上から4行目
 F_s̄: Sch_S → FSetを→
-F_s̄: Sch_S → FSetを→
+F_s̄: FÉt_S → FSetを→

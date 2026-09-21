@@ -26,5 +26,6 @@ fi:Xi→Si→
 fi:Xi→Ui
 
 309p 上から6行目
-よって,Im(fb)=∪Spec(Aai)
+よって,Im(fb)=∪Spec(Aai)(i=1からn)→
+よって,Im(fb)=∪Spec(Aai)(i=1からr)
 

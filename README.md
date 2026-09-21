@@ -69,6 +69,8 @@ Y‘:=u(X)
 (G4)ファイバー積を保つ部分
 X→Z, Y→Z なので
 X×_SY→X×_ZY
+Hom(Spec Ω, S)→Hom(Spec Ω, Z)
+F(S) →F(Z)
 
 323p
 下から7行目

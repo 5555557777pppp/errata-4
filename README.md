@@ -54,6 +54,11 @@ X = X₁ ⨿ ··· ⨿ Xrと表される
 F_s̄: Sch_S → FSetを→
 F_s̄: FÉt_S → FSetを→
 
+329p
+上から11行目
+ker(f*)=Im(f*)→
+ker(f*)=Im(p*)
+
 334p
 上から2行目,3行目
 K^ur,solとK^ur,solvの表記が混在している。

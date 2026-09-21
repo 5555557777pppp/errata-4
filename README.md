@@ -16,6 +16,7 @@ A⊗_BiCj^iは有限生成→
 Ai⊗_BiCj^iは有限生成
 
 305p
+上から5行目
 C:=Av1+•••+Avn→
 V:=Av1+•••+Avn (V⊂B⊂B*⊂V’より)
 

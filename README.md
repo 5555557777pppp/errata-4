@@ -29,3 +29,8 @@ fi:Xi→Ui
 よって,Im(fb)=∪Spec(Aai)(i=1からn)→
 よって,Im(fb)=∪Spec(Aai)(i=1からr)
 
+310p
+命題6.2.46(1)2,3行目
+p*ΩX/Yが存在する→p*ΩX/Sが存在する
+ここでp:X×_YT→Xはx成分→ここでp:X×_ST→Xはx成分
+

@@ -24,3 +24,6 @@ V:=Av1+•••+Avn (V⊂B⊂B*⊂V’より)
 上から12行目　右側
 fi:Xi→Si→
 fi:Xi→Ui
+
+309p
+

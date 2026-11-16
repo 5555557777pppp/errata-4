@@ -124,5 +124,5 @@ p.280 演習13.8 (ii) 最後の行
 「よって essint(E) は通常の開集合」
 p.280 演習13.9 (iii) 
 suppμ=essinff→
-{f>0}\bar^ess
+{f>0}\bar^ess ({f>0}の本質的閉包)
 (suppμ={x:μ(B(x,r))>0(

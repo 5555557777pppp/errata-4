@@ -127,7 +127,7 @@ suppμ=essinff→
 suppμ=f>0\bar^ess (f>0の本質的閉包)
 (定義よりsuppμ={x:μ(B(x,r))>0(∀r>0)},
 測度の定義からsuppμ={x:∫_B(x,r)fdt>0(∀r>0)
-これは{x:m(B(x,r)∩ f>0 )>0(∀r>0)となるので
-suppμ=f>0\bar^ess)
+f≥0から{x:m(B(x,r)∩ f>0 )>0(∀r>0)となるので
+suppμ=f>0\bar^ess)(演習13.8の記号を流用した場合)
 
 

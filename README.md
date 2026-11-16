@@ -126,3 +126,4 @@ p.280 演習13.9 (iii)
 suppμ=essinff→
 {f>0}\bar^ess ({f>0}の本質的閉包)
 (suppμ={x:μ(B(x,r))>0(∀r>0)}
+∫_B(x,r)fdt>0(∀r>0)
